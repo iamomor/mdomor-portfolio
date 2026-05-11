@@ -1,0 +1,243 @@
+{
+  "personal": {
+    "name": "Muhammad Omor Faruk",
+    "title": "Frontend Developer",
+    "tagline": "Building scalable web architecture & digital infrastructure for 30+ global projects focused on business growth",
+    "bio": "I’m a Senior Frontend Engineer and Systems Architect with over 4 years of experience crafting high-performance, scalable web applications. My expertise is deeply rooted in the React and Next.js ecosystem, and TypeScript, where I specialize in building complex frontend architectures that are fast, accessible, and aligned with business growth. While my core focus is engineering intuitive user experiences, I am proficient in designing the end-to-end digital infrastructure, ensuring seamless integration between frontend interfaces, AI-driven automation, and robust backend systems.",
+    "email": "hello@iamomor.com",
+    "location": "Dhaka, Bangladesh",
+    "avatar": "https://i.imgur.com/YBuXyq6.jpeg",
+    "social": {
+      "github": "https://github.com/iamomor",
+      "linkedin": "https://linkedin.com/in/mdomor",
+      "twitter": "https://twitter.com/iamomorr",
+      "instagram": "https://www.instagram.com/mdomorrr"
+    }
+  },
+  "experience": [
+    {
+      "company": "Rielor",
+      "companyUrl": "https://rielor.com",
+      "role": "Founder & Full Stack Developer",
+      "startDate": "2026-01-16",
+      "endDate": null,
+      "description": "Building a modern job-matching platform focused on providing honest and real-time job-matching results.",
+      "highlights": [
+        "Architected and launched the entire platform from concept to deployment, owning the design, frontend, and backend",
+        "Integrated OpenRouter APIs to build a custom automated scraping engine and intelligent job-matching tools.",
+        "Engineered a high-speed, fully responsive UI optimized for cross-device performance and user engagement.",
+        "Designed secure API architectures and optimized data storage to ensure system stability and scalability.",
+        "Delivered clean, maintainable code to solve complex user pain points through an intuitive interface."
+      ],
+      "technologies": ["Next.js", "Generative AI", "OpenRouter API", "TypeScript", "TailwindCSS", "MongoDB"]
+    },
+    {
+      "company": "ChemStudio",
+      "companyUrl": "https://chemstudio.xyz",
+      "role": "Co-Founder & Full Stack Developer",
+      "startDate": "2025-11-09",
+      "endDate": null,
+      "description": "Focused on building a modern EdTech platform focused on interactive chemistry education.",
+      "highlights": [
+        "Partnered in a three-person team to architect and ship ChemStudio, a modern EdTech platform focused on interactive chemistry education.",
+        "Developed the core AI engine to provide real-time, automated explanations for complex chemical concepts, enhancing student learning.",
+        "Directed the frontend overhaul and design strategy, delivering a professional, high-responsiveness interface that boosted user engagement."
+      ],
+      "technologies": ["Next.js", "Generative AI", "OpenAI API", "TypeScript", "TailwindCSS", "Figma", "Framer"]
+    },
+    {
+      "company": "Freelancer.com",
+      "role": "Frontend Developer",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "description": "Delivering high-impact, end-to-end web solutions for a global client base, focusing on performance, scalability, and clean architecture.",
+      "highlights": [
+        "Successfully architected and deployed multiple full-stack applications, managing everything from UI/UX design to backend infrastructure.",
+        "Built custom tools and features tailored to specific business needs, maintaining a high satisfaction rate and top-rated status.",
+        "Engineered high-speed, responsive frontends using React and modern CSS frameworks, ensuring seamless experiences across all devices."
+      ],
+      "technologies": ["React.js", "TypeScript", "Tailwind CSS", "Next.js", "MongoDB", "JavaScript (ES6+)"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "East West University",
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "location": "Dhaka, Bangladesh",
+      "endDate": "2025-06-30"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "React", "level": "expert" },
+        { "name": "React Native", "level": "proficient" },
+        { "name": "Next.js", "level": "expert" },
+        { "name": "TypeScript", "level": "expert" },
+        { "name": "TailwindCSS", "level": "expert" },
+        { "name": "Redux", "level": "expert" },
+        { "name": "Shadcn/UI", "level": "expert" },
+        { "name": "JavaScript", "level": "expert" }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "NodeJS", "level": "proficient" },
+        { "name": "Express.js", "level": "proficient" },
+        { "name": "MongoDB", "level": "proficient" }
+      ]
+    },
+    {
+      "category": "UI/UX & Tools",
+      "items": [
+        { "name": "Figma", "level": "proficient" },
+        { "name": "Adobe XD", "level": "proficient" },
+        { "name": "Adobe Illustrator", "level": "proficient" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Rielor",
+      "description": "Founded and architected an AI-driven automation platform from scratch. Developed an automated scraping system and intelligent tools using OpenRouter APIs. Engineered a high-performance, fully responsive frontend optimized for speed and a secure backend architecture with custom APIs to ensure stability and scalability.",
+      "technologies": [
+        "Next.js",
+        "Generative AI",
+        "OpenRouter API",
+        "TypeScript",
+        "Node.js"
+      ],
+      "url": "https://rielor.com",
+      "github": "https://github.com/iamomor/rielor",
+      "featured": true
+    },
+    {
+      "name": "ChemStudio",
+      "description": "Co-founded an interactive EdTech platform making chemistry accessible through AI-driven tools. Engineered core AI integrations for real-time chemical explanations and led the UI/UX transformation. Developed a dynamic Periodic Table module with optimized performance and interactive visualizations.",
+      "technologies": [
+        "React.js",
+        "Generative AI",
+        "OpenAI API",
+        "Tailwind CSS",
+        "Figma"
+      ],
+      "url": "https://chemstudio.xyz",
+      "github": "https://github.com/iamomor/chemstudio",
+      "featured": true
+    },
+    {
+      "name": "Vynero",
+      "description": "Developed a mobile-first fleet maintenance platform for a New York-based startup. Integrated AI technology to analyze inspection images for automatic damage identification and repair estimation. Built a web interface that eliminated the need for app installations, streamlining vehicle inspections for drivers and managers.",
+      "technologies": [
+        "React.js",
+        "AI Integration",
+        "Node.js",
+        "Cloud Infrastructure"
+      ],
+      "url": "https://vynero-frontend.vercel.app/",
+      "github": "https://github.com/iamomor/vynero",
+      "featured": true
+    },
+    {
+      "name": "PowerMall",
+      "description": "Developed and maintained the user interface for a high-scale e-commerce platform in Bangladesh. Implemented a user-friendly interface focusing on quality and customer trust, collaborating with design teams to create seamless navigation and detailed product listings for individual and wholesale buyers.",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "Node.js",
+        "MongoDB"
+      ],
+      "url": "https://powermall.com.bd",
+      "github": "https://github.com/iamomor/powermall",
+      "featured": false
+    },
+    
+    {
+      "name": "Triband",
+      "description": "Engineered a high-performance video-sharing platform featuring real-time video feeds, category-based content discovery, and seamless Google Authentication. Implemented a responsive, mobile-first UI with optimized video rendering and a robust search system for accounts and content. Focused on delivering a smooth user experience with high-speed data fetching and modern state management.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Google OAuth",
+        "Sanity.io"
+      ],
+      "url": "https://triband-omor.vercel.app",
+      "github": "https://github.com/iamomor/triband",
+      "featured": false
+    }
+  ],
+  "writingPosts": [
+    {
+      "date": "MAY 05, 2026",
+      "title": "The Invisible Gap: Why Most Problems Aren't Visible from the Inside",
+      "description": "Exploring the disconnect between perception and reality in systems, and why finding the 'gap' is more critical than writing the code. Lessons from building Rielor.",
+      "url": "https://www.linkedin.com/posts/mdomor_i-shipped-something-last-month-its-called-share-7458866424204222464-Z9pB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPvfGkBrXRaCl50GzD0hDR7L5vSc790xxM",
+      "featured": true,
+      "readingTime": "3 min read"
+    },
+    {
+      "date": "APRIL 28, 2026",
+      "title": "Beyond Auto-Apply: Building a 'Real-Picture' Job Matching Engine",
+      "description": "A deep dive into the architecture of Rielor—how we extract JDs from links to provide honest 'Apply, Improve, or Skip' results without the false confidence of auto-apply.",
+      "url": "https://www.linkedin.com/posts/mdomor_most-people-dont-get-rejected-because-they-ugcPost-7426320132420841472-oSSM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADPvfGkBrXRaCl50GzD0hDR7L5vSc790xxM",
+      "featured": true,
+      "readingTime": "4 min read"
+    },
+    
+      {
+        "date": "MAY 11, 2026",
+        "title": "Escaping the CRUD Loop: A Review of shadcn-admin-kit",
+        "description": "Why building admin panels doesn't have to be boring. An analysis of how combining shadcn/ui with React-Admin creates a high-performance toolkit for internal tools.",
+        "url": "https://www.linkedin.com/posts/mdomor_reactjs-next-webdev-share-7459004743919640576-STYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPvfGkBrXRaCl50GzD0hDR7L5vSc790xxM",
+        "featured": false,
+        "readingTime": "2 min read"
+      }
+  ],
+  "activities": [
+    {
+      "organization": "DIU Computer & Programming Club (DIU CPC)",
+      "role": "President",
+      "duration": "Aug 2018 – Apr 2021",
+      "highlights": [
+        "Re-established the club and taught JavaScript to members",
+        "Organized an inter-university event with approx. 1000 participants",
+        "Organized 11 intra-university programming contests"
+      ]
+    },
+    {
+      "organization": "Ex_Coder",
+      "role": "Team Lead",
+      "duration": "Jan 2019 – Dec 2020",
+      "highlights": [
+        "Participated in ICPC Dhaka Regional 2019 (Southeast University)",
+        "Participated in NCPC 2020 (MIST)"
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "title": "Prepare for your career: Ultimate Guide to Kickstart Your Journey",
+      "event": "DIU CPC, Dhaka International University",
+      "year": 2025,
+      "role": "Speaker"
+    },
+    {
+      "title": "Expectation vs Reality in Bangladesh's Software Job Market",
+      "event": "DIU CSE Department",
+      "year": 2024,
+      "role": "Guest Speaker"
+    }
+  ],
+  "publications": [
+    {
+      "title": "RHM: Designing a Customized Health Model for the Union of Ramjibon",
+      "publisher": "IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON)",
+      "year": 2019,
+      "doi": "10.1109/BECITHCON48839.2019.9063165"
+    }
+  ]
+}
