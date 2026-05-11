@@ -5,6 +5,7 @@ export interface SocialLinks {
   linkedin?: string;
   twitter?: string;
   medium?: string;
+  instagram?: string;
 }
 
 export interface PersonalInfo {
