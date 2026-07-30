@@ -94,7 +94,7 @@ export default function Hero({ data }: Readonly<{ data: Portfolio }>) {
             </Link>
             <a
               className="btn btn--ghost"
-              href="https://drive.google.com/file/d/1lmCgRXjkE197CEquH29D3HZNbSMRh928/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tvS1_IzXDLloXzdWfFdgT23xuiOXj1Dp/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
